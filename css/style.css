@@ -1,0 +1,61 @@
+.number-guess {
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    background: seagreen;
+}
+
+.inputtwo {
+    display: none;
+}
+
+.inputthree {
+    display: none;
+}
+
+.inputfour {
+    display: none;
+}
+
+.btntwo {
+    display: none;
+}
+
+.btnthree {
+    display: none;
+}
+
+.btnfour {
+    display: none;
+}
+
+h2 {
+    display: none;
+}
+
+.heading3 {
+    /* display: none; */
+    font-size: 32px;
+}
+
+.heading4 {
+    /* display: none; */
+    font-size: 32px;
+}
+
+img {
+    display: none;
+    margin: 0 auto;
+}
+
+.crying {
+    display: none;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.reset {
+    margin-top: 20px;
+}
